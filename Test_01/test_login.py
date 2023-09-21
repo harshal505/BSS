@@ -4,7 +4,7 @@ import pytest
 
 # from selenium import webdriver
 
-from Test_data.Xlread import Read_test_data
+from Test_data.readfile import Read_test_data
 from Utilities.BaseClass import BaseClass
 from PageObjectModel.LoginPageObjects import LoginPageVerification
 
