@@ -4,7 +4,7 @@ import openpyxl
 class Read_test_data:
     @staticmethod
     def getData():
-        fileName = "../Test_data/datafile.xlsx"
+        fileName = r"H:\Harshal data\pythonProject\pythonProject2\Test_data\datafile.xlsx"
         book = openpyxl.load_workbook(fileName)
         sheet = book["User"]
         trows = sheet.max_row
