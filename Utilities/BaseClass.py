@@ -12,7 +12,7 @@ class BaseClass:
     def getLogger():
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
-        file = logging.FileHandler('../Logs/LogFiles.log')
+        file = logging.FileHandler(r'H:\Harshal data\pythonProject\pythonProject2\Logs\logfile.logs')
         formatter = logging.Formatter("%(lineno)s: %(asctime)s:%(levelname)s:%(name)s:%(message)s:")
         file.setFormatter(formatter)
         logger.addHandler(file)
