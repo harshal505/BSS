@@ -7,7 +7,7 @@ from Utilities.BaseClass import BaseClass
 
 
 class Test_End_toEnd(BaseClass):
-
+    @pytest.mark.regression
     def test_end(self, getDataE):
         En = End_toEndVerification(self.driver)
         self.getLogger().info("The browser initiated")
@@ -33,6 +33,11 @@ class Test_End_toEnd(BaseClass):
         self.getOption(En.getState(), getDataE["State"])
         self.getOption(En.getExpiration_Date_Year(), "2024")
         self.getOption(En.getExpiration_Date_Mon(), "February")
+        En.getOwner().send_keys("Harshal")
+        En.getCVV().send_keys("549")
+        En.getCard_Number().send_keys("291442612971")
+        En.get_che_out_btn().click()
+        self.driver.switch_to.alert.accept()
 
         time.sleep(10)
 

@@ -20,6 +20,10 @@ class End_toEndVerification:
     State = (By.XPATH, "//select[@id='state']")
     Expiration_Date_Year = (By.XPATH, "//select[@id='exp_year']")
     Expiration_Date_Mon = (By.XPATH, "//select[@id='exp_month']")
+    Owner = (By.XPATH, "//input[@id='owner']")
+    CVV = (By.XPATH, "//input[@id='cvv']")
+    Card_Number = (By.XPATH, "//input[@id='cardNumber']")
+    checkout_btn = (By.XPATH, "//button[@id='confirm-purchase']")
 
     def getLoginTab(self):
         return self.driver.find_element(*End_toEndVerification.LoginTab)
@@ -65,3 +69,15 @@ class End_toEndVerification:
 
     def getExpiration_Date_Mon(self):
         return self.driver.find_element(*End_toEndVerification.Expiration_Date_Mon)
+
+    def getOwner(self):
+        return self.driver.find_element(*End_toEndVerification.Owner)
+
+    def getCVV(self):
+        return self.driver.find_element(*End_toEndVerification.CVV)
+
+    def getCard_Number(self):
+        return self.driver.find_element(*End_toEndVerification.Card_Number)
+
+    def get_che_out_btn(self):
+        return self.driver.find_element(*End_toEndVerification.checkout_btn)
