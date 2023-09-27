@@ -12,6 +12,7 @@ class RegistrationPageVerification:
     Password = (By.XPATH, "//input[@id='password']")
     Confirm_Password = (By.XPATH, "//input[@id='password-confirm']")
     Register = (By.XPATH, "//button[@type='submit']")
+    ErrorM = (By.XPATH, "//strong[normalize-space()='The email has already been taken.']")
 
     def getRegTab(self):
         return self.driver.find_element(*RegistrationPageVerification.RegTab)
@@ -31,4 +32,5 @@ class RegistrationPageVerification:
     def getRegister(self):
         return self.driver.find_element(*RegistrationPageVerification.Register)
 
-
+    def getErrorM(self):
+        return self.driver.find_element(*RegistrationPageVerification.ErrorM)

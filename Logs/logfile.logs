@@ -187,3 +187,312 @@
 13: 2023-09-22 21:39:33,614:INFO:test_end:The browser initiated:
 17: 2023-09-22 21:39:34,474:INFO:test_end:The email text is hbhagat505@gmail.com:
 17: 2023-09-22 21:39:34,474:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-22 21:50:42,729:INFO:test_end:The browser initiated:
+17: 2023-09-22 21:50:43,619:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-22 21:50:43,619:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-22 21:51:06,000:INFO:test_01:Home is started:
+12: 2023-09-22 21:51:09,862:INFO:test:Test case is started:
+17: 2023-09-22 21:51:12,758:INFO:test:harshal:
+17: 2023-09-22 21:51:12,758:INFO:test:harshal:
+14: 2023-09-22 21:51:30,682:INFO:test_Name:The Element is Recady to accept the Alphabets:
+19: 2023-09-22 21:51:30,738:INFO:test_Email:The Element is Ready to accept the Alphabets:
+23: 2023-09-22 21:51:36,780:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-22 21:51:37,633:INFO:test_02:The Email is ramesh@Gmail.com:
+26: 2023-09-22 21:51:37,633:INFO:test_02:The Email is ramesh@Gmail.com:
+28: 2023-09-22 21:51:37,756:INFO:test_02:The Password is Pass@245:
+28: 2023-09-22 21:51:37,756:INFO:test_02:The Password is Pass@245:
+28: 2023-09-22 21:51:37,756:INFO:test_02:The Password is Pass@245:
+23: 2023-09-22 21:51:41,767:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:41,767:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:41,767:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:41,767:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-22 21:51:42,229:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-22 21:51:42,229:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-22 21:51:42,229:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-22 21:51:42,229:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-22 21:51:42,229:INFO:test_02:The Email is suresh@gmail.com:
+28: 2023-09-22 21:51:42,354:INFO:test_02:The Password is Pass@298:
+28: 2023-09-22 21:51:42,354:INFO:test_02:The Password is Pass@298:
+28: 2023-09-22 21:51:42,354:INFO:test_02:The Password is Pass@298:
+28: 2023-09-22 21:51:42,354:INFO:test_02:The Password is Pass@298:
+28: 2023-09-22 21:51:42,354:INFO:test_02:The Password is Pass@298:
+28: 2023-09-22 21:51:42,354:INFO:test_02:The Password is Pass@298:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:46,218:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-22 21:51:46,633:INFO:test_02:The Email is jayesh@gmail.com:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+28: 2023-09-22 21:51:46,749:INFO:test_02:The Password is pass@289:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-22 21:51:50,607:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-22 21:51:51,049:INFO:test_02:The Email is hbhagat505@gmail.com:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+28: 2023-09-22 21:51:51,155:INFO:test_02:The Password is 12345@:
+13: 2023-09-24 19:25:55,327:INFO:test_end:The browser initiated:
+17: 2023-09-24 19:25:56,279:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-24 19:25:56,279:INFO:test_end:The email text is hbhagat505@gmail.com:
+12: 2023-09-24 19:26:10,537:INFO:test:Test case is started:
+14: 2023-09-24 19:26:17,395:INFO:test_Name:The Element is Recady to accept the Alphabets:
+19: 2023-09-24 19:26:17,503:INFO:test_Email:The Element is Ready to accept the Alphabets:
+23: 2023-09-24 19:26:23,317:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-24 19:26:24,141:INFO:test_02:The Email is ramesh@Gmail.com:
+26: 2023-09-24 19:26:24,141:INFO:test_02:The Email is ramesh@Gmail.com:
+28: 2023-09-24 19:26:24,313:INFO:test_02:The Password is Pass@245:
+28: 2023-09-24 19:26:24,313:INFO:test_02:The Password is Pass@245:
+28: 2023-09-24 19:26:24,313:INFO:test_02:The Password is Pass@245:
+23: 2023-09-24 19:26:28,321:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,321:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,321:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,321:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,369:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,369:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,369:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,369:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,369:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,401:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,401:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,401:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,401:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,401:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-24 19:26:28,401:INFO:test_02:The  Chrome browser initiated:
+12: 2023-09-24 19:27:05,798:INFO:test:Test case is started:
+17: 2023-09-24 19:27:08,667:INFO:test:harshal:
+17: 2023-09-24 19:27:08,667:INFO:test:harshal:
+12: 2023-09-24 19:28:01,233:INFO:test:Test case is started:
+17: 2023-09-24 19:28:04,142:INFO:test:harshal:
+17: 2023-09-24 19:28:04,142:INFO:test:harshal:
+12: 2023-09-24 19:28:53,143:INFO:test:Test case is started:
+17: 2023-09-24 19:28:56,082:INFO:test:harshal:
+17: 2023-09-24 19:28:56,082:INFO:test:harshal:
+13: 2023-09-24 19:35:46,629:INFO:test_end:The browser initiated:
+17: 2023-09-24 19:35:47,577:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-24 19:35:47,577:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-24 19:37:02,340:INFO:test_end:The browser initiated:
+17: 2023-09-24 19:37:03,258:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-24 19:37:03,258:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-24 19:38:46,980:INFO:test_end:The browser initiated:
+17: 2023-09-24 19:38:47,967:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-24 19:38:47,967:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-26 19:52:45,759:INFO:test_end:The browser initiated:
+17: 2023-09-26 19:52:46,743:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-26 19:52:46,743:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-26 19:53:02,446:INFO:test_01:Home is started:
+12: 2023-09-26 19:53:08,839:INFO:test:Test case is started:
+17: 2023-09-26 19:53:11,528:INFO:test:harshal:
+17: 2023-09-26 19:53:11,528:INFO:test:harshal:
+14: 2023-09-26 19:53:26,738:INFO:test_Name:The Element is Recady to accept the Alphabets:
+19: 2023-09-26 19:53:26,816:INFO:test_Email:The Element is Ready to accept the Alphabets:
+23: 2023-09-26 19:53:36,307:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 19:53:37,455:INFO:test_02:The Email is ramesh@Gmail.com:
+26: 2023-09-26 19:53:37,455:INFO:test_02:The Email is ramesh@Gmail.com:
+28: 2023-09-26 19:53:37,601:INFO:test_02:The Password is Pass@245:
+28: 2023-09-26 19:53:37,601:INFO:test_02:The Password is Pass@245:
+28: 2023-09-26 19:53:37,601:INFO:test_02:The Password is Pass@245:
+23: 2023-09-26 19:53:41,915:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:41,915:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:41,915:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:41,915:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 19:53:42,528:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 19:53:42,528:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 19:53:42,528:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 19:53:42,528:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 19:53:42,528:INFO:test_02:The Email is suresh@gmail.com:
+28: 2023-09-26 19:53:42,815:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 19:53:42,815:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 19:53:42,815:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 19:53:42,815:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 19:53:42,815:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 19:53:42,815:INFO:test_02:The Password is Pass@298:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:47,077:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 19:53:48,123:INFO:test_02:The Email is jayesh@gmail.com:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 19:53:48,369:INFO:test_02:The Password is pass@289:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 19:53:53,150:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 19:53:53,781:INFO:test_02:The Email is hbhagat505@gmail.com:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 19:53:54,038:INFO:test_02:The Password is 12345@:
+13: 2023-09-26 20:00:35,774:INFO:test_end:The browser initiated:
+17: 2023-09-26 20:00:37,007:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-26 20:00:37,007:INFO:test_end:The email text is hbhagat505@gmail.com:
+13: 2023-09-26 20:00:53,888:INFO:test_01:Home is started:
+12: 2023-09-26 20:00:57,054:INFO:test:Test case is started:
+17: 2023-09-26 20:00:59,996:INFO:test:harshal:
+17: 2023-09-26 20:00:59,996:INFO:test:harshal:
+14: 2023-09-26 20:01:18,708:INFO:test_Name:The Element is Recady to accept the Alphabets:
+19: 2023-09-26 20:01:18,804:INFO:test_Email:The Element is Ready to accept the Alphabets:
+23: 2023-09-26 20:01:28,937:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 20:01:29,803:INFO:test_02:The Email is ramesh@Gmail.com:
+26: 2023-09-26 20:01:29,803:INFO:test_02:The Email is ramesh@Gmail.com:
+28: 2023-09-26 20:01:29,935:INFO:test_02:The Password is Pass@245:
+28: 2023-09-26 20:01:29,935:INFO:test_02:The Password is Pass@245:
+28: 2023-09-26 20:01:29,935:INFO:test_02:The Password is Pass@245:
+23: 2023-09-26 20:01:33,929:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:33,929:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:33,929:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:33,929:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 20:01:34,395:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 20:01:34,395:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 20:01:34,395:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 20:01:34,395:INFO:test_02:The Email is suresh@gmail.com:
+26: 2023-09-26 20:01:34,395:INFO:test_02:The Email is suresh@gmail.com:
+28: 2023-09-26 20:01:34,589:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 20:01:34,589:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 20:01:34,589:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 20:01:34,589:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 20:01:34,589:INFO:test_02:The Password is Pass@298:
+28: 2023-09-26 20:01:34,589:INFO:test_02:The Password is Pass@298:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:38,613:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+26: 2023-09-26 20:01:39,372:INFO:test_02:The Email is jayesh@gmail.com:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+28: 2023-09-26 20:01:39,639:INFO:test_02:The Password is pass@289:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+23: 2023-09-26 20:01:43,879:INFO:test_02:The  Chrome browser initiated:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+26: 2023-09-26 20:01:44,383:INFO:test_02:The Email is hbhagat505@gmail.com:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+28: 2023-09-26 20:01:44,571:INFO:test_02:The Password is 12345@:
+13: 2023-09-26 20:03:39,779:INFO:test_end:The browser initiated:
+17: 2023-09-26 20:03:41,222:INFO:test_end:The email text is hbhagat505@gmail.com:
+17: 2023-09-26 20:03:41,222:INFO:test_end:The email text is hbhagat505@gmail.com:

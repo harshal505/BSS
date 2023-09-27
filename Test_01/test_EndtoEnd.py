@@ -37,7 +37,7 @@ class Test_End_toEnd(BaseClass):
         En.getCVV().send_keys("549")
         En.getCard_Number().send_keys("291442612971")
         En.get_che_out_btn().click()
-        self.driver.switch_to.alert.accept()
+        self.getAlert("ok")
 
         time.sleep(10)
 

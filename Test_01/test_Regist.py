@@ -23,10 +23,11 @@ class TestRegisValid(BaseClass):
         reg.getConfirm_Password().send_keys(getDataR["confpass"])
         time.sleep(2)
         reg.getRegister().click()
+        assert "already" in reg.getErrorM().text
         time.sleep(5)
 
 
-# pytest -rA test1_Regist.py
+# pytest -rA test_Regist.py
 
 @pytest.fixture(params=[{"name": "harshal", "Email": "hbhagat505@gmail.com",
                          "Password": "12345@", "confpass": "12345@"}])

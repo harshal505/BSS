@@ -120,3 +120,42 @@
 #     for items in a:
 #         mazi2=item
 
+# 2. How to check number is prime or not.
+# num = eval(input("Enter the valid Number"))
+# flag = 0
+# for i in range(1, num + 1):
+#     if num % i == 0:
+#         flag = flag + 1
+#
+# if flag == 2:
+#     print("The number is prime Number", num)
+# else:
+#     print("The number is not prime Number", num)
+
+# for item in range(1, 101):
+#     flag = 0
+#     for i in range(1, item + 1):
+#         if item % i == 0:
+#             flag = flag + 1
+#     if flag == 2:
+#         print(item, end="  ")
+
+# for item in range(1, 6):
+#     for i in range(1, item + 1):
+#         print("*", end="")
+#
+#     print("\n")
+
+# num = 5
+# for item in range(6):
+#     for i in range(num):
+#         print(num, end="")
+#     num = num - 1
+#     print("\n")
+
+# num = 5
+# for item in range(6):
+#     for i in range(num):
+#         print("*", end="")
+#     num = num - 1
+#     print("\n")

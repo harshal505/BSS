@@ -22,3 +22,7 @@ class BaseClass:
     def getOption(self, ele, text):
         opt = Select(ele)
         opt.select_by_visible_text(text)
+
+    def getAlert(self, action):
+        if action == "ok":
+            self.driver.switch_to.alert.accept()
