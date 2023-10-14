@@ -7,6 +7,7 @@ import pytest
 from Test_data.readfile import Read_test_data
 from Utilities.BaseClass import BaseClass
 from PageObjectModel.LoginPageObjects import LoginPageVerification
+from Utilities import XLreadUtilies
 
 
 # driver=webdriver.Chrome()
@@ -18,28 +19,26 @@ from PageObjectModel.LoginPageObjects import LoginPageVerification
 
 class Test_login(BaseClass):
 
-    def test_02(self, getData):
+    def test_02(self):
+        self.getLogger().info("*********** Execution Started****************")
         LinV = LoginPageVerification(self.driver)
-        self.getLogger().info("The  Chrome browser initiated")
+        path = r"H:\Harshal data\pythonProject\pythonProject2\Test_data\datafile.xlsx"
+        rows = XLreadUtilies.getRowCount(path, "User")
+        sheetName = "User"
+        print(rows)
         LinV.getLoginTab().click()
-        # time.sleep(2)
-        self.getLogger().info("The Email is " + (getData[0]))
-        LinV.getEmailText().send_keys(getData[0])
-        self.getLogger().info("The Password is " + (getData[1]))
-        LinV.getPassText().send_keys(getData[1])
-        LinV.getLoginBut().click()
-        # self.driver.refresh()
-        time.sleep(3)
-        # expected_title = LinV.getExpected_Result().text()
-        # if self.driver.title == expected_title:
-        #     assert True
-        # else:
-        #     assert False
-
-
-# @pytest.fixture(params=[{"Email": "hbhagat505@gmail.com", "": "Pass@123"}, {"Email": "hbhagat5055@gmail.com", "Password": "Pass@1234"}])
-
-@pytest.fixture(params=Read_test_data.getData())
-def getData(request):
-    return request.param
-# pytest -rA test_login.py
+        for r in range(2, rows + 1):
+            LinV.getEmailText().send_keys(XLreadUtilies.readData(path, sheetName, r, 1))
+            self.getLogger().info(XLreadUtilies.readData(path, sheetName, r, 1))
+            LinV.getPassText().send_keys(XLreadUtilies.readData(path, sheetName, r, 2))
+            self.getLogger().info(XLreadUtilies.readData(path, sheetName, r, 2))
+            LinV.getLoginBut().click()
+            if LinV.getExpected_Result() == "harshal":
+                XLreadUtilies.writeData(path, sheetName, r, 4, "Pass")
+                self.getLogger().info("**************Successful Login********************")
+                self.getLogger().info("**************Positive Scenario********************")
+            else:
+                XLreadUtilies.writeData(path, sheetName, r, 4, "Fail")
+                self.getLogger().error("*************Negative Scenario******************")
+            exp_result = XLreadUtilies.readData(path, sheetName, r, 3)
+            act_result = XLreadUtilies.readData(path, sheetName, r, 4)

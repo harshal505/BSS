@@ -23,6 +23,8 @@ def setup(request):
         driver = webdriver.Chrome()
 
     driver.get("https://automation.credence.in/shop")
+    # driver.get("https://automation.credence.in/checkout")
+
     driver.maximize_window()
     request.cls.driver = driver
 

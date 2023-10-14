@@ -10,7 +10,7 @@ class LoginPageVerification:
     EmailText = (By.XPATH, "//input[@id='email']")
     PassWordText = (By.XPATH, "//input[@id='password']")
     LoginButton = (By.XPATH, "//button[normalize-space()='Login']")
-    Expected_r = (By.XPATH, "//a[normalize-space()='harshal']")
+    Expected_r = (By.XPATH, "//*[@id='navbar']/ul[2]/li[3]/a")
 
     def getLoginTab(self):
         return self.driver.find_element(*LoginPageVerification.LoginTab)
@@ -27,4 +27,4 @@ class LoginPageVerification:
         return self.driver.find_element(*LoginPageVerification.LoginButton)
 
     def getExpected_Result(self):
-        return self.driver.find_element(*LoginPageVerification.Expected_r)
+        return self.driver.find_element(*LoginPageVerification.Expected_r).text

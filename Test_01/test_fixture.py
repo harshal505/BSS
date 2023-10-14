@@ -1,7 +1,13 @@
 from selenium import webdriver
 import pytest
 
+
 # driver = None
+
+
+def test_verifyLoginPage(setup):
+    driver.get("https://www.facebook.com")
+    assert driver.title == "Facebook – log in or sign up"
 
 
 @pytest.fixture
@@ -12,7 +18,3 @@ def setup():
     yield
     print(driver.title)
     driver.close()
-
-
-def test_verifyLoginPage(setup):
-    driver.get("https://www.facebook.com")

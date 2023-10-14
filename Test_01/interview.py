@@ -6,6 +6,7 @@
 # b = a - b
 # a = a - b
 # print(f"a value after swap: {a},b value after swap :{b}")
+from functools import reduce
 
 # 2. How to check number is prime or not.
 # 3. 4. Print Fibonacci series.
@@ -159,3 +160,50 @@
 #         print("*", end="")
 #     num = num - 1
 #     print("\n")
+
+# ageV = lambda age: age > 18
+# print(ageV(19))
+# print((lambda age: age > 18)(17))
+# print((lambda age: "Age is above" if age > 18 else "Age is below")(17))
+# print((lambda age: "Age is above" if age > 18 else "Age is below")(20))
+
+# Odd or Even No
+# NumberList = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# EvenList = list(filter(lambda item: item % 2 == 0, NumberList))
+# print(EvenList)
+#
+# OddList = list(filter(lambda item: item % 2 == 1, NumberList))
+# print(OddList)
+#
+# print(list(map(lambda item: "yes" if item % 2 == 0 else "No", NumberList)))
+
+# NumberList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1]
+# sumR = reduce(lambda a, b: a + b, NumberList)
+# print(sumR)
+# Multi = reduce(lambda a, b: a * b, NumberList)
+# print(Multi)
+
+
+# Numb = eval(input("Enter the valid No : "))
+#
+#
+# def getFactorial(Numb):
+#     if Numb <= 1:
+#         return 1
+#     return Numb * getFactorial(Numb - 1)
+#
+#
+# Fact = getFactorial(Numb)
+# print(Fact)
+
+a = "mamxmcmqm"
+for items in a:
+    if items.find("m", 1):
+        print("%", end="  ")
+    else:
+        print(items, end="  ")
+
+# print(b)
+#     print("%", end="  ")
+# else:
+#     print(item, end="  ")
