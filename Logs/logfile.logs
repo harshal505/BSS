@@ -338,3 +338,229 @@
 2023-10-14 20:21:51,614 :INFO : test_02 :**************Positive Scenario********************
 2023-10-14 20:22:02,639 :INFO : test_01 :The chrome browser is initiated
 2023-10-14 20:22:02,639 :INFO : test_01 :Home is started
+2023-10-15 09:49:59,923 :INFO : test_end :The browser initiated
+2023-10-15 09:50:00,821 :INFO : test_end :The email text is hbhagat505@gmail.com
+2023-10-15 09:50:00,821 :INFO : test_end :The email text is hbhagat505@gmail.com
+2023-10-15 09:50:24,383 :INFO : test_01 :The chrome browser is initiated
+2023-10-15 09:50:24,383 :INFO : test_01 :Home is started
+2023-10-15 09:50:27,885 :INFO : test :Test case is started
+2023-10-15 09:50:30,813 :INFO : test :harshal
+2023-10-15 09:50:30,813 :INFO : test :harshal
+2023-10-15 09:51:02,142 :INFO : test_02 :*********** Execution Started****************
+2023-10-15 09:51:03,183 :INFO : test_02 :ramesh@Gmail.com
+2023-10-15 09:51:03,183 :INFO : test_02 :ramesh@Gmail.com
+2023-10-15 09:51:03,311 :INFO : test_02 :Pass@245
+2023-10-15 09:51:03,311 :INFO : test_02 :Pass@245
+2023-10-15 09:51:03,311 :INFO : test_02 :Pass@245
+2023-10-15 09:51:04,244 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:04,244 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:04,244 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:04,244 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:04,493 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:51:04,493 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:51:04,493 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:51:04,493 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:51:04,493 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:51:04,626 :INFO : test_02 :Pass@298
+2023-10-15 09:51:04,626 :INFO : test_02 :Pass@298
+2023-10-15 09:51:04,626 :INFO : test_02 :Pass@298
+2023-10-15 09:51:04,626 :INFO : test_02 :Pass@298
+2023-10-15 09:51:04,626 :INFO : test_02 :Pass@298
+2023-10-15 09:51:04,626 :INFO : test_02 :Pass@298
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,493 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,727 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:05,909 :INFO : test_02 :pass@289
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,126 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,399 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:07,575 :INFO : test_02 :12345@
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,396 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:51:09,404 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:06,886 :INFO : test :Test case is started
+2023-10-15 09:54:07,229 :INFO : test_end :The browser initiated
+2023-10-15 09:54:08,329 :INFO : test_end :The email text is hbhagat505@gmail.com
+2023-10-15 09:54:08,329 :INFO : test_end :The email text is hbhagat505@gmail.com
+2023-10-15 09:54:09,405 :INFO : test :harshal
+2023-10-15 09:54:09,405 :INFO : test :harshal
+2023-10-15 09:54:09,901 :INFO : test_02 :*********** Execution Started****************
+2023-10-15 09:54:10,924 :INFO : test_02 :ramesh@Gmail.com
+2023-10-15 09:54:10,924 :INFO : test_02 :ramesh@Gmail.com
+2023-10-15 09:54:11,053 :INFO : test_02 :Pass@245
+2023-10-15 09:54:11,053 :INFO : test_02 :Pass@245
+2023-10-15 09:54:11,053 :INFO : test_02 :Pass@245
+2023-10-15 09:54:11,934 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:11,934 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:11,934 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:11,934 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:12,151 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:54:12,151 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:54:12,151 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:54:12,151 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:54:12,151 :INFO : test_02 :suresh@gmail.com
+2023-10-15 09:54:12,284 :INFO : test_02 :Pass@298
+2023-10-15 09:54:12,284 :INFO : test_02 :Pass@298
+2023-10-15 09:54:12,284 :INFO : test_02 :Pass@298
+2023-10-15 09:54:12,284 :INFO : test_02 :Pass@298
+2023-10-15 09:54:12,284 :INFO : test_02 :Pass@298
+2023-10-15 09:54:12,284 :INFO : test_02 :Pass@298
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,086 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,322 :INFO : test_02 :jayesh@gmail.com
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:13,485 :INFO : test_02 :pass@289
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,319 :ERROR : test_02 :*************Negative Scenario******************
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,542 :INFO : test_02 :hbhagat505@gmail.com
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:14,684 :INFO : test_02 :12345@
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,623 :INFO : test_02 :**************Successful Login********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:16,639 :INFO : test_02 :**************Positive Scenario********************
+2023-10-15 09:54:31,870 :INFO : test_01 :The chrome browser is initiated
+2023-10-15 09:54:31,870 :INFO : test_01 :Home is started
